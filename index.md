@@ -10,9 +10,9 @@ conference:
 
 ## Important Dates
 
-**Event Dates:** April 21, 2025 - April 22, 2025 8:00 AM - 7:00 PM
+**Event Dates:** April 21 - 22, 2025 / 8:00 AM - 7:00 PM Eastern Time
 
-**Register By:** April 14, 2025 6:00 PM
+**Register By:** April 14, 2025 / 6:00 PM Eastern Time
 
 **Registration Link:** Registration is required for all attendees. Please register [here](https://events.simonsfoundation.org/event/90116c4e-d87a-4943-8bb8-b3b92d0ff398/regProcessStep1:9d11078f-3ba9-4a4e-be59-4d82b9e7a8ca?RefId=Registration).
 
