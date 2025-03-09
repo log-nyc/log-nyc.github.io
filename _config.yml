@@ -2,10 +2,8 @@ title: 3rd LoG-NYC Workshop on Learning Meets Geometry, Graphs, and Networks
 preposition: at
 description: >-
   NYC regional workshop of the Learning on Graphs Conference 
-  Dates: April 21, 2025 - April 22, 2025 8:00 AM - 7:00 PM
-  Register By: April 14, 2025 6:00 PM
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://example.com" # the base hostname & protocol for your site, e.g. https://example.com
+baseurl: "/spring_2025" # the subpath of your site, e.g. /blog
+url: "https://log-nyc.github.io" # the base hostname & protocol for your site, e.g. https://example.com
 
 theme: jekyll-theme-conference
 

@@ -1,6 +1,12 @@
----
-layout: home
----
+
+[//]: # ---
+[//]: # layout: home
+[//]: # ---
+
+conference:
+  main:
+    logo:
+      img: 'assets/images/log_skyline_with_logo.jpg'
 
 ## Important Dates
 
@@ -15,5 +21,6 @@ layout: home
 The New York Metropolitan Area Regional Workshop of the [Learning on Graphs Conference](https://logconference.org/) is an annual research workshop on topics broadly related to machine learning on graphs and geometry. This event serves as a regional branch of the main Learning on Graphs Conference, providing an environment for local researchers to convene, foster discussion, and build social connections. This free two-day event includes an invited speaker series, poster sessions, and structured and unstructured networking sessions.
 
 ### Prior Iterations
-- [LoG NYC Fall 2024](https://logmeetupnyc.github.io/)
-- [LoG NYC Spring 2024](https://1stlognycmeetup.github.io/)
+
+- [2nd LoG NYC / Fall 2024](https://logmeetupnyc.github.io/)
+- [1st LoG NYC / Spring 2024](https://1stlognycmeetup.github.io/)
