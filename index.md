@@ -1,6 +1,15 @@
 ---
 layout: home
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque ultricies interdum lacus quis gravida. Vestibulum eget arcu in dui facilisis luctus. Curabitur rhoncus nibh non neque viverra facilisis. Nam nec placerat augue, ut mollis ante. Morbi pulvinar iaculis felis eget pretium. Duis euismod, risus non placerat accumsan, mi nisl euismod nibh, quis finibus ante mauris eu odio.
 
-Nullam a nunc felis. Aenean nec metus sed elit feugiat elementum sed ut quam. Maecenas dignissim augue nec sollicitudin sagittis. Donec sagittis dolor non tincidunt eleifend. Donec vel nibh et leo pretium dignissim. Nulla vehicula arcu velit, ac facilisis turpis fermentum ac. Integer at tempus sem, in vehicula magna. Ut tempor est nec nisl imperdiet porttitor sit amet maximus massa.
+## Important Dates
+
+**Event Dates:** April 21, 2025 - April 22, 2025 8:00 AM - 7:00 PM
+
+**Register By:** April 14, 2025 6:00 PM
+
+**Registration Link:** Registration is required for all attendees. Please register [here](https://events.simonsfoundation.org/event/90116c4e-d87a-4943-8bb8-b3b92d0ff398/regProcessStep1:9d11078f-3ba9-4a4e-be59-4d82b9e7a8ca?RefId=Registration).
+
+## About
+
+The New York Metropolitan Area Regional Workshop of the [Learning on Graphs Conference](https://logconference.org/) is an annual research workshop on topics broadly related to machine learning on graphs and geometry. This event serves as a regional branch of the main Learning on Graphs Conference, providing an environment for local researchers to convene, foster discussion, and build social connections. This free two-day event includes an invited speaker series, poster sessions, and structured and unstructured networking sessions.
