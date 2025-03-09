@@ -1,0 +1,21 @@
+<h2 class="section-title">{{ .titles.selected_talks }}</h2>
+
+
+<ul class="talks-list">
+  {{ $currentSlot := "" }}
+  {{ range .selected_talks }}
+    {{ if ne .slot $currentSlot }}
+      {{ if ne $currentSlot "" }}</ul>{{ end }}
+      <li class="slot-item">
+        <h4>{{ .slot }}</h4>
+        <ul class="talks-in-slot">
+    {{ end }}
+    <li class="talk-item">
+      <p class="talk-info">
+        {{ .title }} - <b>Speaker: {{ .speaker }}</b>
+      </p>
+    </li>
+    {{ $currentSlot = .slot }}
+  {{ end }}
+  </ul>{{/* Close the last talks-in-slot list if needed */}}
+</ul>

@@ -1,0 +1,76 @@
+<h2 class="section-title">{{ .titles.organizers }}</h2>
+
+<!--<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veritatis ducimus neque amet corrupti ex temporibus similique.</p>-->
+
+<!--
+<ul class="sponsors-list">
+{{ range $contact := .contacts }}
+  <li class="sponsor-item" itemscope itemtype="http://schema.org/Organization">
+    <a href="{{ .url }}" class="sponsor--link" itemprop="url" target="_blank">
+      <img src="{{ .logo }}" alt="{{ .name }}" class="photo" itemprop="image">
+    </a>
+  </li>
+{{ end }}
+</ul>
+-->
+
+<ul class="organizers-list">
+  {{ range $contact := .contacts }}
+    <li class="organizer-item" itemscope itemtype="http://schema.org/Organization">
+      <a href="{{ .url }}" class="organizer-link" itemprop="url" target="_blank">
+        <img src="{{ .logo }}" alt="{{ .name }}" class="photo" itemprop="image">
+      </a>
+      <!-- <p class="organizer-name">{{ .name }}</p>
+      <p class="organizer-email">{{ .email }}</p>-->
+      <div class="organizer-details">
+        <p class="organizer-name">{{ .name }}</p>
+        <p class="organizer-affiliation">{{ .affiliation }}</p>
+        <p class="organizer-email">{{ .email }}</p>
+        <div class="icon-links">
+          <a href="{{ $contact.home }}" target="_blank"><i class="fas fa-home"></i></a> <!-- Home icon -->
+          <a href="{{ $contact.linkedin }}" target="_blank"><i class="fab fa-linkedin"></i></a> <!-- LinkedIn icon -->
+          <a href="{{ $contact.googleScholar }}" target="_blank"><i class="fas fa-graduation-cap"></i></a> <!-- Google Scholar icon -->
+        </div>
+
+      </div>
+    </li>
+  {{ end }}
+</ul>
+
+
+<br><br><br>
+
+<!-- <h4>Local Team</h4> -->
+
+<br><br>
+
+
+<ul class="team-list">
+  {{ range $contact := .team }}
+    <li class="team-list-item">{{ .name }}</li>
+  {{ end }}
+</ul>
+
+
+
+
+
+
+
+<!--
+<form method="post" action="contact.php" id="form" class="form">
+  <div class="control-group control-group-name">
+    <label for="name">Name</label>
+    <input type="text" name="name" id="name" placeholder="Your name">
+  </div>
+  <div class="control-group control-group-email">
+    <label for="email">E-mail</label>
+  <input type="email" name="email" id="email" placeholder="Your e-mail">
+  </div>
+  <div class="control-group">
+    <label for="message">Message</label>
+  <textarea name="" id="message" cols="30" rows="10" placeholder="Your message"></textarea>
+  </div>
+  <input class="btn btn-send" type="submit" value="Send">
+</form>
+-->

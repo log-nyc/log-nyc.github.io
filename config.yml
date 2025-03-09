@@ -1,0 +1,292 @@
+baseurl: "https://logmeetupnyc.github.io/"
+title: "LoG New York"
+canonifyurls: true
+theme: "hugo-conference"
+
+GoogleAnalytics: ""
+
+params:
+  # Conference info
+  Name: "LoG New York"
+  Description: "LoG Meet Up New York"
+  Date: "Feb 29th - March 1st"
+  #Price: "Only XX€" # If your event is free, just comment this line
+  Venue: "New York"
+  Address: "101 Hudson St"
+  City:  "Jersey City"
+  State: "New Jersey"
+  Images: ["/img/badge.jpg"]
+  GoogleMapsKey: "my-secret-maps-key"
+
+  # Active sections on the website to deactivate comment out with '#'
+  # you can also change order here and it will reflect on page
+  Sections:
+    - about
+    - registration
+    - cfp
+    - schedule
+    - speakers
+    # - selected_talks # comment first upload
+    - organizers 
+    - sponsors
+    #- partners
+    - location
+
+  # Titles 
+  Titles:
+    about: "About"
+    registration: "Registration"
+    cfp: "Call for talks"
+    location: "The Venue"
+    schedule: "Schedule"
+    speakers: "Keynote Speakers"
+    # selected_talks: "Selected Talks"
+    sponsors: "Sponsors"
+    partners: "Partners"
+    organizers: "Organizers"
+
+  # List of Sponsors
+  Sponsors:
+
+    - name: "NJIT"
+      logo: "/img/njit.png"
+      url: "https://cs.njit.edu"
+
+
+
+  # The entire schedule
+  Schedule:
+
+    - name: "Registration and Reception"
+      time: "Thursday 08h30-09h15"
+
+    - name: "Opening NYC LoG"
+      time: "Thursday 09h15-09h30"
+
+    - name: "TBA" # Name Surname
+      photo: "/img/Anton.jpg"
+      abstract: ""
+      bio: "Anton Tsitsulin is a research scientist at google research NYC. He is interested in scalable, principled methods for analyzing graph data in an unsupervised manner." 
+      company: "Google Research" 
+      link:
+        href: "https://tsitsul.in/"
+      #  text: "WebPage"
+      presentation:
+        title: "Anton Tsitsulin" #Speaker Name
+        time: "Thursday 09h30-10h10"
+
+    - name: "aa" # Name Surname
+      photo: "/img/micheal.jpg"
+      abstract: ""
+      bio: "Michael S Albergo is a postdoc at the Courant Institute of Mathematical Sciences."
+        
+      company: "Courant Institute of Mathematical Sciences" 
+      link:
+        href: "http://malbergo.me/"
+      #  text: "WebPage"
+      presentation:
+        title: "Michael S Albergo" #Speaker Name
+        time: "Thursday 10h10-10h50"
+
+    - name: "Coffee Break"
+      time: "Thursday 10h50-11h10"
+
+    - name: "Spotlight Talk"
+      photo: "/img/bryan.jpg"
+      url: "www.example.org"
+      abstract: "" 
+      bio: "Bryan Perozzi is a senior staff research scientist  at Google NYC, where he develop techniques for learning expressive 
+      representations of social relationships and natural language with neural networks. These scalable algorithms are useful for prediction tasks (classification/regression), pattern discovery, and anomaly detection in large networked data sets."
+      company: "Google Research" 
+      link:
+        href: "https://research.google/people/bryan-perozzi/"
+        #text: "@linus"
+      presentation:
+        title: "Bryan Perozzi" # Speaker Name
+        time: "Thursday 11h10-12h10"
+
+
+    - name: "Lunch Break and Social"
+      time: "Thursday 12h10-13h30"
+
+    - name: "TBA" # Name Surname
+      photo: "/img/ricky.jpg"
+      url: "www.example.org"
+      abstract: "" 
+      bio: "Ricky Tian Qi Chen is a research scientist  at Meta AI(FAIR) in NYC, where his research is on building simplified abstractions of the world through the lens of dynamical systems and flows.
+      He generally works on integrating structured transformations into probabilistic modeling, with the goal of improved interpretability, tractable optimization, or extending into novel areas of application."
+      company: "Meta AI(FAIR) in NYC" 
+      link:
+        href: "https://rtqichen.github.io//"
+        #text: "@linus"
+      presentation:
+        title: "Ricky Tian Qi Chen" # Speaker Name
+        time: "Thursday 13h30-14h10"
+
+    - name: "TBA" # Name Surname
+      photo: "/img/mengjia.png"
+      abstract: ""
+      bio: "Mengjia Xu is currently an Assistant Professor at Department of Data Science, Ying Wu College of Computing, NJIT. She also holds a Research Affiliate position with the MIT NSF Center for Brains, Minds, and Machines (CBMM) at McGovern Institute for Brain Research. "
+        
+      company: "New Jersey Institute of Technology" 
+      link:
+        href: "https://gracexu182.github.io/"
+      #  text: "WebPage"
+      presentation:
+        title: "Mengjia Xu" #Speaker Name
+        time: "Thursday 14h10-14h50"
+
+    - name: "Coffee Break"
+      time: "Thursday 14h50-15h10"
+
+    - name: "Graph Ricci Flow and Applications in Network Analysis and Learning" # Name Surname
+      photo: "/img/jie.jpg"
+      abstract: "The notion of curvature describes how spaces are bent at each point and Ricci flow deforms the space such that curvature changes in a way analogous to the diffusion of heat. In this talk I will discuss some of our work on discrete Ollivier Ricci curvature defined on graphs. Discrete curvature defined on an edge captures the local connectivity in the neighborhood. In general edges within a densely connected community have positive curvature while edges connecting different communities have negative curvature. By deforming edge weights with respect to curvature one can derive a Ricci flow metric which is robust to edge insertion/deletion. I will present applications of graph Ricci flow in graph analysis and learning, including network alignment, community detection and graph neural networks."
+      bio: "Jie Gao is a Professor of Computer Science department of Rutgers University. From 2005-2019 she was on faculty of Department of Computer Science, Stony Brook University.
+      Her reserach is in the intersection of Algorithm Design, Computational Geometry and Networking applications such as wireless, mobile, and sensor networks, and more recently social networks, trajectory data/privacy, and scheduling problems in robotics and networking."
+        
+      company: "Rutgers University" 
+      link:
+        href: "https://sites.rutgers.edu/jie-gao/"
+      #  text: "WebPage"
+      presentation:
+        title: "Jie Gao" #Speaker Name
+        time: "Thursday 15h10-15h50"
+
+    - name: "Learning the laws and composition of the Universe with cosmic graphs" # Name Surname
+      photo: "/img/paco.png"
+      abstract: "Cosmology is a branch of astrophysics dedicated to the study of the laws and constituents of the Universe. To achieve this, cosmologists look at the spatial distribution of galaxies in the Universe with the goal of finding patterns in that distribution that reveal the fundamental physics behind the dynamics of the cosmos. In this talk, I will show how deep learning is revolutionizing the way cosmologists tackle decades-old problems and how graph neural networks can be used in combination with state-of-the-art hydrodynamic simulations to maximize the amount of information that can be extracted from cosmological observations."
+      bio: "Francisco (Paco) Villaescusa-Navarro is a research scientist at the Flatiron Institute in New York City. He did his PhD at the University of Valencia in Spain. He held postdoctoral positions at the Astronomical Observatory of Trieste, Italy, and the Center for Computational Astrophysics in New York before becoming an associate research scholar at Princeton University, where he holds a visiting research scholar position. Paco is the main architect of the Quijote simulations, the largest suite of cosmological N-body simulations ever run. He is also part of the CAMELS core team that designed and ran the largest set of state-of-the-art hydrodynamic simulations to date. Paco combines the output of numerical simulations with machine learning methods to develop theoretical models to extract the maximum amount of information from cosmological surveys in order to unveil the Universe’s mysteries."
+      company: "Flatiron Institute" 
+      link:
+        href: "https://franciscovillaescusa.github.io/"
+      #  text: "WebPage"
+      presentation:
+        title: "Francisco Villaescusa-Navarro" #Speaker Name
+        time: "Thursday 15h50-16h30"
+
+    
+    - name: "Poster Session"
+      time: "Thursday 16h30-17h30"
+
+
+    ##### Friday
+
+    - name: "LATENTDOCK: Protein-Protein Docking with Latent Diffusion" # Name Surname
+      photo: "/img/matt.jpg"
+      abstract: "Interactions between proteins form the basis for many biological processes, and understanding their relationships is an area of active research. Computational approaches offer a way to facilitate this understanding without the burden of expensive and time-consuming experiments. Here, we introduce LATENTDOCK, a generative model for protein-protein docking. Our method leverages a diffusion model operating within a geometrically-structured latent space, derived from an encoder producing roto-translational invariant representations of protein complexes. Critically, it is able to perform flexible docking, capturing both backbone and side-chain conformational changes. Furthermore, our model can condition on binding sites, leading to significant performance gains. Empirical evaluations show the efficacy of our approach over relevant baselines, even outperforming models that do not account for flexibility."
+      bio: "Matthew McPartlon is a senior research scientist at VantAI where he works on deep learning models for predicting protein-protein and protein-small molecule interactions. Prior to joining VantAI he completed his PhD in computer science at The University of Chicago under Jinbo Xu. His current research is focused on learning invariant representations of 3D geometry and applying this to structure related problems in biology."
+      company: "VantAI" # Cat Foundation
+      link:
+        href: ""
+      #  text: "WebPage"
+      presentation:
+        title: "Matthew McPartlon" #Speaker Name
+        time: "Friday - 09h00-09h40"
+
+    - name: "Panel Discussion"
+      time: "Friday 09h40-10h40"
+
+    - name: "Invited Talk"
+      time: "Friday - 10h40-11h20"
+
+    - name: "Lunch Break and Social"
+      time: "Friday - 12h00-13h30"
+
+    - name: "Invited Talk"
+      time: "Friday - 13h30-14h10"
+
+    - name: "Invited Talk"
+      time: "Friday 14h10-14h50"
+      
+    - name: "Invited Talk"
+      time: "Friday 14h50-15h30"
+
+    - name: "Poster Session"
+      time: "Friday 15h30-16h30"
+    
+    - name: "Closing Remarks"
+      time: "Friday 16h30-16h40"
+
+
+
+  # List of Contacts
+  Contacts:
+
+    - name: "Ioannis Koutis"
+      logo: "/img/IK.jpg"
+      email: "ikoutis@njit.edu"
+      affiliation: "New Jersey Institute of Technology"
+      #url: "https://gohugo.io"
+      home: "https://web.njit.edu/~ikoutis/" 
+      linkedin: "https://www.linkedin.com/in/yiannis-koutis-08b3a84" 
+      googleScholar: "https://scholar.google.com/citations?user=ONXC8_gAAAAJ&hl=en" 
+
+    - name: "Vincent Oria"
+      logo: "/img/vincent.jpg"
+      email: "vincent.oria@njit.edu"
+      affiliation: "New Jersey Institute of Technology"
+      #url: "https://gohugo.io"
+      home: "https://web.njit.edu/~oria/" 
+      linkedin: "https://www.linkedin.com/in/vincent-oria-7b06a114/" 
+      googleScholar: "https://scholar.google.com/citations?hl=en&user=PlgV6FwAAAAJ&view_op=list_works&sortby=pubdate" 
+
+    - name: "Ali Parviz"
+      logo: "/img/ali.jpg"
+      email: "ap2248@njit.edu"
+      affiliation: "New Jersey Institute of Technology"
+      # home: "https://mikelhernaez.github.io/" 
+      linkedin: "https://www.linkedin.com/in/alipokhbe/" 
+      googleScholar: "https://scholar.google.com/citations?user=GU1VHgMAAAAJ&hl=en" 
+
+    - name: "Yuanqi Du"
+      logo: "/img/yuanqi.jpg"
+      email: "yuanqidu@cs.cornell.edu"
+      affiliation: "Cornell University"
+      # url: "https://yuanqidu.github.io/"
+      home: "https://yuanqidu.github.io/"
+      linkedin: "https://www.linkedin.com/in/yuanqi-du-523968148" 
+      googleScholar: "https://scholar.google.com/citations?user=fAc_zZMAAAAJ&hl=en" # Add the Google Scholar URL here 
+
+
+    - name: "Yingheng Wang"
+      logo: "/img/yingheng.jpg"
+      email: "yingheng@cs.cornell.edu"
+      affiliation: "Cornell University"
+      # url: "isjakewong.github.io"
+      home: "https://isjakewong.github.io"
+      linkedin: "https://www.linkedin.com/in/yingheng-w-7b8066171/" 
+      googleScholar: "https://scholar.google.com/citations?user=4WEa7tMAAAAJ&hl=en"
+
+    - name: "Derek Lim"
+      logo: "/img/dereck.jpg"
+      email: "dereklim@mit.edu"
+      affiliation: "MIT"
+      # url: "cptq.github.io"
+      home: "cptq.github.io"
+      linkedin: "https://www.linkedin.com/in/lim-derek/" 
+      googleScholar: "https://scholar.google.com/citations?user=y9YTBIsAAAAJ&hl=en"
+
+    - name: "Jacqueline Maasch"
+      logo: "/img/jacq.png"
+      email: "maasch@cs.cornell.edu"
+      affiliation: "Cornell Tech"
+      # url: 
+      home: "https://jmaasch.github.io/"
+      linkedin: "https://www.linkedin.com/in/jmaasch/"
+      googleScholar: "https://scholar.google.com/citations?user=5l9n9J8AAAAJ&hl=en&authuser=1"
+
+    - name: "Yanbang Wang"
+      logo: "/img/yangbang.jpg"
+      email: "ywangdr@cs.cornell.edu"
+      affiliation: "Cornell University"
+      url: ""
+      home: "https://www.cs.cornell.edu/~ywangdr/"
+      linkedin: "https://www.linkedin.com/in/ywangdr/" 
+      googleScholar: "https://scholar.google.com/citations?user=Ch3YUgsAAAAJ&hl=en"
+
+  # Team:
+    # - name: "Yingheng"
+    # - name: "Dereck Lim"
+
+
