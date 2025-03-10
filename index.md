@@ -1,7 +1,9 @@
 
-# 3rd LoG NYC Workshop: Learning Meets Geometry, Graphs, and Networks 
+# **Learning Meets Geometry, Graphs, and Networks** 
 
-**Note:** Website still under construction! Stay tuned.
+We are pleased to announce that registration is open for the 3rd LoG NYC Workshop: *Learning Meets Geometry, Graphs, and Networks.*
+
+**Note:** Website still under construction! Stay tuned for the full schedule of events.
 
 
 ## Important Dates
@@ -17,7 +19,7 @@
 
 ## About
 
-The New York Metropolitan Area Regional Workshop of the [Learning on Graphs Conference](https://logconference.org/) is an annual research workshop on topics broadly related to machine learning on graphs and geometry. This event serves as a regional branch of the main Learning on Graphs Conference, providing an environment for local researchers to convene, foster discussion, and build social connections. This free two-day event includes an invited speaker series, poster sessions, and structured and unstructured networking sessions.
+The New York Metropolitan Area Regional Workshop of the [Learning on Graphs Conference](https://logconference.org/) is a semiannual research workshop on topics broadly related to machine learning on graphs and geometry. This event serves as a regional branch of the main Learning on Graphs Conference, providing an environment for local researchers to convene, foster discussion, and build social connections. This free two-day event includes an invited speaker series, poster sessions, and structured and unstructured networking sessions.
 
 ### Prior Iterations
 
