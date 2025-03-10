@@ -102,7 +102,7 @@ conference:
   # Main landing page
   main:
     logo:
-      img: '/assets/images/log_skyline_with_logo.jpg'
+      img: 'log_skyline_with_logo.jpg'
     #links:
     #  - name: Spring 2025
     #    relative_url: /spring_2025
@@ -164,7 +164,7 @@ conference:
     # display it.
     map:
       # Initial map center point
-      home_coord: 47.37808, 8.53935
+      home_coord: 40.74063363447844, -73.99090883190662
       # Alternative map providers can be found on https://leaflet-extras.github.io/leaflet-providers/preview/
       # The following do match the Bootstrap design not too badly:
       #   - Thunderforest.Neighbourhood
