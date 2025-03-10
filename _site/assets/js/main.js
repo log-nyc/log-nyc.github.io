@@ -22,7 +22,7 @@
 // Conference
 window.conference = {
     config: {
-        baseurl: '/spring_2025/'
+        baseurl: '/spring_2025'
     },
 
     ready: false,
