@@ -1,6 +1,6 @@
 ---
-name: The Anonymous
-first_name: The
-last_name: Anonymous
+name: 
+first_name: 
+last_name: 
 hide: true
 ---
