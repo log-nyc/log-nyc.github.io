@@ -1,12 +1,8 @@
 
-[//]: # ---
-[//]: # layout: home
-[//]: # ---
+---
+layout: home
+---
 
-conference:
-  main:
-    logo:
-      img: 'assets/images/log_skyline_with_logo.jpg'
 
 ## Important Dates
 
