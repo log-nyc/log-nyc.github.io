@@ -1,8 +1,8 @@
-title: 3rd LoG-NYC Workshop on Learning Meets Geometry, Graphs, and Networks 
+title: 3rd LoG-NYC Workshop
 preposition: at
 #description: >-
 #  NYC regional workshop of the Learning on Graphs Conference 
-baseurl: "/" # the subpath of your site, e.g. /blog
+baseurl: "/spring_2025/" # the subpath of your site, e.g. /blog
 url: "https://log-nyc.github.io" # the base hostname & protocol for your site, e.g. https://example.com
 
 # Build settings
