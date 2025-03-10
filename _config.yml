@@ -1,8 +1,8 @@
-title: LoG NYC Workshop 
+title: 3rd LoG-NYC Workshop on Learning Meets Geometry, Graphs, and Networks 
 preposition: at
 #description: >-
 #  NYC regional workshop of the Learning on Graphs Conference 
-baseurl: "/spring_2025" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://log-nyc.github.io" # the base hostname & protocol for your site, e.g. https://example.com
 
 # Build settings
@@ -102,7 +102,7 @@ conference:
   # Main landing page
   main:
     logo:
-      img: 'log_skyline_with_logo.jpg'
+      img: '/assets/images/log_skyline_with_logo.jpg'
     #links:
     #  - name: Spring 2025
     #    relative_url: /spring_2025
@@ -155,7 +155,7 @@ conference:
 
   location:
     # Disable links to locations
-    hide: true
+    hide: false
     # URL of location / room overview page
     url: '/location'
     # Main page title shown on location/room navigation bar
