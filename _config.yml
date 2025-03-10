@@ -10,8 +10,11 @@ markdown: kramdown
 sass:
   style: compressed
 
-plugins: jekyll-include-cache
+plugins:
+  - jekyll-include-cache
+  
 #theme: jekyll-theme-conference
+
 remote_theme: "DigitaleGesellschaft/jekyll-theme-conference@v3.6.1"
 
 # Additional exclude from processing
