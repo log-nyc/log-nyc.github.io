@@ -23,5 +23,5 @@ The New York Metropolitan Area Regional Workshop of the [Learning on Graphs Conf
 
 ### Prior Iterations
 
-- [2nd LoG NYC Workshop | Fall 2024](https://logmeetupnyc.github.io/)
-- [1st LoG NYC Workshop | Spring 2024](https://1stlognycmeetup.github.io/)
+- [2nd LoG NYC Workshop // Fall 2024](https://logmeetupnyc.github.io/)
+- [1st LoG NYC Workshop // Spring 2024](https://1stlognycmeetup.github.io/)
