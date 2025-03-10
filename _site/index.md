@@ -1,20 +1,19 @@
 
-[//]: # ---
-[//]: # layout: home
-[//]: # ---
+# 3rd LoG NYC Workshop: Learning Meets Geometry, Graphs, and Networks 
 
-conference:
-  main:
-    logo:
-      img: 'assets/images/log_skyline_with_logo.jpg'
+**Note:** Website still under construction! Stay tuned.
+
 
 ## Important Dates
 
 **Event Dates:** April 21 - 22, 2025 / 8:00 AM - 7:00 PM Eastern Time
 
+**Location:** [Flatiron Institute](https://www.simonsfoundation.org/flatiron/), 162 5th Ave, New York, NY 10010
+
 **Register By:** April 14, 2025 / 6:00 PM Eastern Time
 
 **Registration Link:** Registration is required for all attendees. Please register [here](https://events.simonsfoundation.org/event/90116c4e-d87a-4943-8bb8-b3b92d0ff398/regProcessStep1:9d11078f-3ba9-4a4e-be59-4d82b9e7a8ca?RefId=Registration).
+
 
 ## About
 
@@ -22,5 +21,5 @@ The New York Metropolitan Area Regional Workshop of the [Learning on Graphs Conf
 
 ### Prior Iterations
 
-- [2nd LoG NYC / Fall 2024](https://logmeetupnyc.github.io/)
-- [1st LoG NYC / Spring 2024](https://1stlognycmeetup.github.io/)
+- [2nd LoG NYC Workshop / Fall 2024](https://logmeetupnyc.github.io/)
+- [1st LoG NYC Workshop / Spring 2024](https://1stlognycmeetup.github.io/)
