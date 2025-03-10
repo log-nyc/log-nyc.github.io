@@ -102,7 +102,7 @@ conference:
   # Main landing page
   main:
     logo:
-      img: '/assets/images/log_skyline_with_logo.jpg'
+      img: 'log_skyline_with_logo.jpg'
     #links:
     #  - name: Spring 2025
     #    relative_url: /spring_2025
