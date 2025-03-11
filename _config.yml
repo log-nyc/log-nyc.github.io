@@ -74,8 +74,8 @@ conference:
       #url: 'https://digitale-gesellschaft.ch/'
     breakpoint: md
     links:
-      - name: Program
-        relative_url: /program/
+      - name: Schedule
+        relative_url: /schedule/
       - name: Talks
         relative_url: /talks/
       - name: Speakers
