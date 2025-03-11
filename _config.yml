@@ -2,7 +2,7 @@ title: 3rd LoG NYC Workshop
 preposition: at
 #description: >-
 #  NYC regional workshop of the Learning on Graphs Conference 
-#baseurl: "/spring_2025" # the subpath of your site, e.g. /blog
+#baseurl: "/spring_2025" # the subpath of your site, e.g. /blog # NOTE: THIS MUST BE COMMENTED OUT OR BREAKS CODE
 url: "https://log-nyc.github.io" # the base hostname & protocol for your site, e.g. https://example.com
 
 # Build settings
@@ -75,7 +75,7 @@ conference:
     breakpoint: md
     links:
       - name: Schedule
-        relative_url: /schedule/
+        relative_url: /program/
       - name: Talks
         relative_url: /talks/
       - name: Speakers
