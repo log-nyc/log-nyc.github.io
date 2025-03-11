@@ -3,7 +3,7 @@ name: Joan Bruna
 first_name: Joan
 last_name: Bruna
 links:
-  - name: Profile
+  - name: Website
     absolute_url: https://cims.nyu.edu/~bruna/
 ---
 
