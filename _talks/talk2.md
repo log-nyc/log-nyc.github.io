@@ -1,10 +1,10 @@
 ---
-name: Condimentum Vitae Sapien Pellentesque
+name: Title forthcoming
 speakers:
-  - Tolga Philip
-  - Alex Rosales
+  - Jon Kleinberg
 categories:
-  - Cat A
+  #- Cat B
   - Talk
-hide: true
 ---
+
+Abstract forthcoming.
