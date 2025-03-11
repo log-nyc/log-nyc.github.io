@@ -88,13 +88,13 @@ conference:
           - name: Spring 2025 (Current)
             disabled: true
           - name: Fall 2024
-            #relative_url: /fall_2024/
-            permalink: /fall_2024
+            relative_url: /fall_2024/
+            #permalink: /fall_2024
             redirect_to:
               - https://logmeetupnyc.github.io/
           - name: Spring 2024
-            #relative_url: /spring_2024/
-            permalink: /spring_2024
+            relative_url: /spring_2024/
+            #permalink: /spring_2024
             redirect_to:
               - https://1stlognycmeetup.github.io/
 
