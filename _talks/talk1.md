@@ -1,5 +1,5 @@
 ---
-name: Title forthcoming
+name: Elias Bareinboim/ Title forthcoming
 speakers:
   - Elias Bareinboim
 categories:

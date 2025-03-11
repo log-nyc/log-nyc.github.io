@@ -1,5 +1,5 @@
 ---
-name: Title forthcoming
+name: Jon Kleinberg / Title forthcoming
 speakers:
   - Jon Kleinberg
 categories:
