@@ -149,9 +149,9 @@ conference:
       - name: ML for Science
         color: warning
       - name: Science of ML
-        color: lavender
+        color: #ffe0b2
       - name: GraphML
-        color: pink
+        color: #ebd4ff
 
     # Hide icons on talk overview page
     hide_icons: false
