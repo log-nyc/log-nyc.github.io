@@ -142,10 +142,16 @@ conference:
   talks:
     # Talk categories
     main_categories:
-      - name: Category A
+      - name: Structured Inference
         color: info
-      - name: Category B
+      - name: Network Science
         color: success
+      - name: ML for Science
+        color: warning
+      - name: Science of ML
+        color: lavender
+      - name: GraphML
+        color: pink
 
     # Hide icons on talk overview page
     hide_icons: false
