@@ -81,6 +81,8 @@ conference:
         relative_url: /talks/
       - name: Speakers
         relative_url: /speakers/
+      - name: Organizers
+        relative_url: /organizers/
       - name: Location
         relative_url: /location/
       - name: Previous Editions
