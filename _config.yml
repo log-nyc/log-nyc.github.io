@@ -151,7 +151,7 @@ conference:
       - name: Science of ML
         color: secondary
       - name: GraphML
-        color: alert
+        color: primary
 
     # Hide icons on talk overview page
     hide_icons: false
