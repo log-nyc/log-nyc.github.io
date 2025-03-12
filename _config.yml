@@ -153,7 +153,7 @@ conference:
       - name: Science of ML
         color: secondary
       - name: GraphML
-        color: primary
+        color: dark
 
     # Hide icons on talk overview page
     hide_icons: false
@@ -191,3 +191,50 @@ conference:
 
     # Show intermediary time steps (next to full hours)
     show_alltimes: true
+
+
+  organizers:
+
+    - name: "Ali Parviz"
+      logo: "/img/ali.jpg"
+      email: "ap2248@njit.edu"
+      affiliation: "New Jersey Institute of Technology"
+      # home: "https://mikelhernaez.github.io/" 
+      linkedin: "https://www.linkedin.com/in/alipokhbe/" 
+      googleScholar: "https://scholar.google.com/citations?user=GU1VHgMAAAAJ&hl=en" 
+
+    - name: "Yuanqi Du"
+      logo: "/img/yuanqi.jpg"
+      email: "yuanqidu@cs.cornell.edu"
+      affiliation: "Cornell University"
+      # url: "https://yuanqidu.github.io/"
+      home: "https://yuanqidu.github.io/"
+      linkedin: "https://www.linkedin.com/in/yuanqi-du-523968148" 
+      googleScholar: "https://scholar.google.com/citations?user=fAc_zZMAAAAJ&hl=en" # Add the Google Scholar URL here 
+
+    - name: "Yingheng Wang"
+      logo: "/img/yingheng.jpg"
+      email: "yingheng@cs.cornell.edu"
+      affiliation: "Cornell University"
+      # url: "isjakewong.github.io"
+      home: "https://isjakewong.github.io"
+      linkedin: "https://www.linkedin.com/in/yingheng-w-7b8066171/" 
+      googleScholar: "https://scholar.google.com/citations?user=4WEa7tMAAAAJ&hl=en"
+
+    - name: "Jacqueline Maasch"
+      logo: "/img/jacq.png"
+      email: "maasch@cs.cornell.edu"
+      affiliation: "Cornell Tech"
+      # url: 
+      home: "https://jmaasch.github.io/"
+      linkedin: "https://www.linkedin.com/in/jmaasch/"
+      googleScholar: "https://scholar.google.com/citations?user=5l9n9J8AAAAJ&hl=en&authuser=1"
+
+    - name: "Teresa Huang"
+      logo: 
+      email: 
+      affiliation: 
+      url: ""
+      home: 
+      linkedin: 
+      googleScholar: 
