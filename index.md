@@ -43,8 +43,3 @@ The following is a non-exhaustive summary of our workshop's research focus:
 - Structured probabilistc inference
 - Graph/Geometric ML (e.g., for health applications, security, computer vision, etc.)
 - Graph/Geometric ML infrastructures (e.g., datasets, benchmarks, libraries, etc.)
-
-### Prior Iterations
-
-- [2nd LoG NYC Workshop // Fall 2024](https://logmeetupnyc.github.io/)
-- [1st LoG NYC Workshop // Spring 2024](https://1stlognycmeetup.github.io/)

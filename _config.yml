@@ -1,3 +1,4 @@
+repository: log-nyc/log-nyc.github.io
 title: 3rd LoG NYC Workshop
 preposition: at
 #description: >-
@@ -85,14 +86,16 @@ conference:
         relative_url: /organizers/
       - name: Location
         relative_url: /location/
+      - name: Sponsors
+        relative_url: /sponsors/
       - name: Previous Editions
         menu:
           - name: Spring 2025 (Current)
             disabled: true
           - name: Fall 2024
-            relative_url: /fall_2024/
+            absolute_url: https://logmeetupnyc.github.io/
           - name: Spring 2024
-            relative_url: /spring_2024/
+            absolute_url: https://1stlognycmeetup.github.io/
 
   # Link Preview for Sharing
   link_preview:
