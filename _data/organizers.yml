@@ -1,0 +1,59 @@
+organizers:
+
+
+
+
+
+
+  - name: "Jacqueline Maasch"
+    photo: "/assets/images/jacq.png"
+    affiliation: "Cornell Tech"
+    email: "maasch@cs.cornell.edu"
+    home: "https://jmaasch.github.io/"
+    linkedin: "https://linkedin.com/in/jmaasch"
+    googleScholar: "https://scholar.google.com/citations?user=5l9n9J8AAAAJ&hl=en"
+
+
+  - name: "Teresa Huang"
+    photo: "/assets/images/teresa.jpeg"
+    affiliation: "Flatiron Institute"
+    email: "thuang@flatironinstitute.org"
+    home: "https://nhuang37.github.io/"
+    linkedin: "https://www.linkedin.com/in/nhuang37/"
+    googleScholar: "https://scholar.google.com/citations?hl=en&user=cUQa7_kAAAAJ"
+
+
+  - name: "Ali Parviz"
+    photo: "/assets/images/ali.jpg"
+    affiliation: "NJIT"
+    email: "ap2248@njit.edu"
+    home: "https://scholar.google.com/citations?user=GU1VHgMAAAAJ"
+    linkedin: "https://www.linkedin.com/in/alipokhbe/"
+    googleScholar: "https://scholar.google.com/citations?user=GU1VHgMAAAAJ"
+
+
+  - name: "Yingheng Wang"
+    photo: "/assets/images/yingheng.jpg"
+    affiliation: "Cornell University"
+    email: "yingheng@cs.cornell.edu"
+    home: "https://isjakewong.github.io"
+    linkedin: "https://linkedin.com/in/yingheng"
+    googleScholar: "https://scholar.google.com/citations?user=4WEa7tMAAAAJ&hl=zh-CN"
+
+
+
+  - name: "Yuanqi Du"
+    photo: "/assets/images/yuanqi.jpg"
+    affiliation: "Cornell University"
+    email: "yingheng@cs.cornell.edu"
+    home: "https://yuanqidu.github.io/"
+    linkedin: "https://www.linkedin.com/in/yuanqi-du-523968148/"
+    googleScholar: "https://scholar.google.com/citations?user=fAc_zZMAAAAJ&hl=en"
+
+  - name: "Yanbang Wang"
+    photo: "/assets/images/yanbang.jpg"
+    affiliation: "Cornell University"
+    email: "ywangdr@cs.cornell.edu"
+    home: "https://www.cs.cornell.edu/~ywangdr/"
+    linkedin: "https://linkedin.com/in/yanbang"
+    googleScholar: "https://scholar.google.com/citations?user=Ch3YUgsAAAAJ&hl=en"

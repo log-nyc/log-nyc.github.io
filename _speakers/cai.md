@@ -9,5 +9,5 @@ talk_title: ""
 abstract: ""
 bio: ""
 website: https://www.dianacai.com/
-category: "Student Speaker"
+category: "Invited Speaker"
 ---

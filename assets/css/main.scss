@@ -9,4 +9,39 @@ $pink: #ffe8ed;
 
 @import 'conference';
 
+.organizer-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 20px;
+}
 
+.organizer-card {
+  width: 250px;
+  text-align: center;
+}
+
+.organizer-card img {
+  width: 120px;
+  height: 120px;
+  border-radius: 50%;
+  object-fit: cover;
+  margin-bottom: 10px;
+}
+
+.organizer-links a {
+  margin: 5px;
+  font-size: 18px;
+  color: #0077b5;
+}
+
+.organizer-links img {
+    width: 14px;
+    height: 14px;
+    margin-right: 5px;
+}
+
+.organizer-links i.fa-linkedin {
+    font-size: 21px; /* Adjust to your preferred size */
+    vertical-align: middle;
+}
