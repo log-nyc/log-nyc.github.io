@@ -1,10 +1,12 @@
 ---
+layout: speaker
 name: Andrew Gordon Wilson
 first_name: Andrew Gordon
 last_name: Wilson
-links:
-  - name: Website
-    absolute_url: https://cims.nyu.edu/~andrewgw/
+affiliation: New York University
+talk_title: ""
+abstract: ""
+bio: ""
+website: https://cims.nyu.edu/~andrewgw/
+category: "Invited Speaker"
 ---
-
-Abstract forthcoming.

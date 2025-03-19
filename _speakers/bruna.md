@@ -1,10 +1,12 @@
 ---
+layout: speaker
 name: Joan Bruna
 first_name: Joan
 last_name: Bruna
-links:
-  - name: Website
-    absolute_url: https://cims.nyu.edu/~bruna/
+affiliation: New York University
+talk_title: ""
+abstract: ""
+bio: ""
+website: https://cims.nyu.edu/~bruna/
+category: "Invited Speaker"
 ---
-
-Abstract forthcoming.

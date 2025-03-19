@@ -1,10 +1,12 @@
 ---
+layout: speaker
 name: Soledad Villar
 first_name: Soledad
 last_name: Villar
-links:
-  - name: Website
-    absolute_url: https://www.ams.jhu.edu/villar/
+affiliation: Johns Hopkins University
+talk_title: ""
+abstract: ""
+bio: ""
+website: https://www.ams.jhu.edu/villar/
+category: "Invited Speaker"
 ---
-
-Abstract forthcoming.

@@ -1,10 +1,12 @@
 ---
+layout: speaker
 name: Shirley Ho
 first_name: Shirley
 last_name: Ho
-links:
-  - name: Website
-    absolute_url: https://www.simonsfoundation.org/people/shirley-ho/
+affiliation: Simons Foundation & New York University
+talk_title: ""
+abstract: ""
+bio: ""
+website: https://www.simonsfoundation.org/people/shirley-ho/
+category: "Invited Speaker"
 ---
-
-Abstract forthcoming.
