@@ -1,5 +1,5 @@
 days:
-  - name: "April 21"
+  - name: "April 21 (Monday)"
     date: "2025-04-21"
     rooms:
       - name: "Main Hall"
@@ -79,7 +79,7 @@ days:
             title: "Poster & Reception"
             type: "general"
 
-  - name: "April 22"
+  - name: "April 22 (Tuesday)"
     date: "2025-04-22"
     rooms:
       - name: "Main Hall"

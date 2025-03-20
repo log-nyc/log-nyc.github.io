@@ -77,6 +77,18 @@ $pink: #ffe8ed;
 .category-graphml { background-color: #ffb3ba; color: black; } /* Soft Blue */
 
 // Table structure styling
+.table {
+  width: auto; /* Ensures the table does not stretch unnecessarily */
+  max-width: 70%; /* Adjust as needed */
+  margin: auto; /* Centers the table */
+}
+
+td {
+  word-wrap: break-word; /* Ensures long text wraps */
+  white-space: normal;
+}
+
+
 .time-col {
   width: 20%;
   text-align: center;
@@ -84,7 +96,8 @@ $pink: #ffe8ed;
 }
 /* Ensure the Event column is wider */
 .event-col {
-  width: 50% !important;
+  text-align: center;
+  width: 40% !important;
 }
 
 /* Keep header bold, but event contents normal */
