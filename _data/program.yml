@@ -142,7 +142,7 @@ days:
             speaker: "Carey Priebe"
             category: "Network Science"
           - time_start: "3:30 PM"
-            time_end: "3:45"
+            time_end: "3:45 PM"
             title: "Coffee Break"
             type: "break"
           - time_start: "3:45 PM"
