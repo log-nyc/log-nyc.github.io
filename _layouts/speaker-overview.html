@@ -14,7 +14,7 @@
 <h2 class="mt-5">Speakers</h2>
 <div class="speakerlist">
   {% assign cur_letter = false %}
-  {% assign speakers = site.speakers | where: "category", "Invited Speaker" | sort_natural: "first_name" %}
+  {% assign speakers = site.speakers | where: "category", "Invited Speaker" | sort_natural: "last_name" %}
 
   {% for speaker in speakers %}
     {% assign last_letter = speaker.first_name | slice: 0 | capitalize %}
@@ -51,7 +51,7 @@
 <h2 class="mt-5">Student Speakers</h2>
 <div class="speakerlist">
   {% assign cur_letter = false %}
-  {% assign student_speakers = site.speakers | where: "category", "Student Speaker" | sort_natural: "first_name" %}
+  {% assign student_speakers = site.speakers | where: "category", "Student Speaker" | sort_natural: "last_name" %}
 
   {% for speaker in student_speakers %}
     {% assign last_letter = speaker.first_name | slice: 0 | capitalize %}
