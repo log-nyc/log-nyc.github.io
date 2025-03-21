@@ -1,11 +1,9 @@
 
 # **Learning Meets Geometry, Graphs, and Networks** 
 
-We are pleased to announce that registration is open for the 3rd LoG NYC Workshop: *Learning Meets Geometry, Graphs, and Networks.* This free two-day event serves as a regional branch of the main [Learning on Graphs Conference](https://logconference.org/), providing an environment for local researchers to convene, foster discussion, and build social connections. This event includes an invited speaker series, poster sessions, and structured and unstructured networking sessions. 
+We are pleased to announce that registration is open for the 3rd LoG NYC Workshop: *Learning Meets Geometry, Graphs, and Networks.* This free two-day event serves as a regional branch of the main [Learning on Graphs Conference](https://logconference.org/), providing an environment for local researchers to convene, foster discussion, and build social connections. This event includes an invited speaker series, poster session, and reception. 
 
-**Poster:** The workshop is now open for poster submission (see details in the registration page).
-
-**Note:** Website still under construction! Stay tuned for the full schedule of events.
+**Poster session submissions are open!** Submit through the [official registration form](https://events.simonsfoundation.org/event/90116c4e-d87a-4943-8bb8-b3b92d0ff398/regProcessStep1:9d11078f-3ba9-4a4e-be59-4d82b9e7a8ca?RefId=Registration). For topics in scope, see **Subject Areas** below.
 
 
 ## Details + Dates
@@ -23,9 +21,9 @@ We are pleased to announce that registration is open for the 3rd LoG NYC Worksho
 
 The New York Metropolitan Area Regional Workshop of the [Learning on Graphs Conference](https://logconference.org/) is a semiannual research workshop on topics broadly related to machine learning on graphs and geometry. 
 
-### Subject Areas
+#### Subject Areas
 
-The following is a non-exhaustive summary of our workshop's research focus:
+The following is a non-exhaustive summary of our workshop's research focus. We welcome [poster session submissions](https://events.simonsfoundation.org/event/90116c4e-d87a-4943-8bb8-b3b92d0ff398/regProcessStep1:9d11078f-3ba9-4a4e-be59-4d82b9e7a8ca?RefId=Registration) relevant to these and adjacent topics:
 
 - Expressive graph neural networks
 - GNN architectures (e.g., transformers, new positional encodings, etc.)
