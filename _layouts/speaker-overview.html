@@ -17,7 +17,7 @@
   {% assign speakers = site.speakers | where: "category", "Invited Speaker" | sort_natural: "last_name" %}
 
   {% for speaker in speakers %}
-    {% assign last_letter = speaker.first_name | slice: 0 | capitalize %}
+    {% assign last_letter = speaker.last_name | slice: 0 | capitalize %}
 
     {% if cur_letter != last_letter %}
       {% if cur_letter %}
@@ -54,7 +54,7 @@
   {% assign student_speakers = site.speakers | where: "category", "Student Speaker" | sort_natural: "last_name" %}
 
   {% for speaker in student_speakers %}
-    {% assign last_letter = speaker.first_name | slice: 0 | capitalize %}
+    {% assign last_letter = speaker.last_name | slice: 0 | capitalize %}
 
     {% if cur_letter != last_letter %}
       {% if cur_letter %}
