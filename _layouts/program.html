@@ -24,7 +24,15 @@
                 <span class="badge badge-category category-{{ event.category | downcase | replace: " ", "-" }}">{{ event.category }}</span>
               {% endif %}
             </td>
-            <td>{% if event.speaker %}{{ event.speaker }}{% else %}-{% endif %}</td>
+<td>
+  {% if event.speaker %}
+    {% assign speaker_lastname = event.speaker | split: " " | last | downcase %}
+    <a href="{{ site.baseurl }}/speakers/{{ speaker_lastname }}/">{{ event.speaker }}</a>
+  {% else %}
+    -
+  {% endif %}
+</td>
+
           </tr>
         {% endfor %}
       {% endfor %}
