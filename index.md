@@ -5,7 +5,7 @@ We are pleased to announce that registration is open for the 3rd LoG NYC Worksho
 
 **Invited speaker series:** Structured Inference &nbsp;&#124;&nbsp; ML x Science &nbsp;&#124;&nbsp; Graph ML &nbsp;&#124;&nbsp; Learning & Reasoning  
 
-**Poster session submissions are open!** Submit through the [official registration form](https://events.simonsfoundation.org/event/90116c4e-d87a-4943-8bb8-b3b92d0ff398/regProcessStep1:9d11078f-3ba9-4a4e-be59-4d82b9e7a8ca?RefId=Registration). For topics in scope, see **Subject Areas** below.
+**Poster session submissions are open!** Submit through the official registration form. For topics in scope, see **Subject Areas** below.
 
 
 ## Details + Dates
@@ -22,7 +22,7 @@ The New York Metropolitan Area Regional Workshop of the [Learning on Graphs Conf
 
 #### Subject Areas
 
-The following is a non-exhaustive summary of our workshop's research focus. We welcome [poster session submissions](https://events.simonsfoundation.org/event/90116c4e-d87a-4943-8bb8-b3b92d0ff398/regProcessStep1:9d11078f-3ba9-4a4e-be59-4d82b9e7a8ca?RefId=Registration) relevant to these and adjacent topics:
+The following is a non-exhaustive summary of our workshop's research focus. We welcome poster session submissions relevant to these and adjacent topics:
 
 - Expressive graph neural networks
 - GNN architectures (e.g., transformers, new positional encodings, etc.)
