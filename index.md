@@ -3,7 +3,7 @@
 
 We are pleased to announce that registration is open for the 3rd LoG NYC Workshop: *Learning Meets Geometry, Graphs, and Networks.* This free two-day event serves as a regional branch of the main [Learning on Graphs Conference](https://logconference.org/), providing an environment for local researchers to convene, foster discussion, and build social connections. This event includes an invited speaker series, poster session, and reception.  
 
-**Invited speaker series:** Structured Inference &nbsp;&#124;&nbsp; ML x Science &nbsp;&#124;&nbsp; Graph ML &nbsp;&#124;&nbsp; Learning & Reasoning  
+**Invited speaker series:** View our lineup [here](https://log-nyc.github.io/program/). Topics: Structured Inference &nbsp;&#124;&nbsp; ML x Science &nbsp;&#124;&nbsp; Graph ML &nbsp;&#124;&nbsp; Learning & Reasoning  
 
 **Poster session submissions are open!** Submit through the [official registration form](https://events.simonsfoundation.org/event/90116c4e-d87a-4943-8bb8-b3b92d0ff398/regProcessStep1:9d11078f-3ba9-4a4e-be59-4d82b9e7a8ca?RefId=Registration). For topics in scope, see **Subject Areas** below.
 
