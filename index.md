@@ -3,8 +3,6 @@
 
 We are pleased to announce that registration is open for the 3rd LoG NYC Workshop: *Learning Meets Geometry, Graphs, and Networks.* This free two-day event serves as a regional branch of the main [Learning on Graphs Conference](https://logconference.org/), providing an environment for local researchers to convene, foster discussion, and build social connections. This event includes an invited speaker series, poster session, and reception.  
 
-**Invited speaker series:** Structured Inference &nbsp;&#124;&nbsp; ML x Science &nbsp;&#124;&nbsp; Graph ML &nbsp;&#124;&nbsp; Learning & Reasoning  
-
 **Poster session submissions are open!** Submit through the official registration form. For topics in scope, see **Subject Areas** below.
 
 
@@ -14,7 +12,7 @@ We are pleased to announce that registration is open for the 3rd LoG NYC Worksho
 - **Event Dates:** April 21st – 22nd, 2025, 9:00 AM – 6:00 PM ET
 - **Register By:** April 14, 2025, 6:00 PM ET
 - **Registration Link:** Official registration is required for all attendees and is free of charge. [Please register here](https://events.simonsfoundation.org/event/90116c4e-d87a-4943-8bb8-b3b92d0ff398/regProcessStep1:9d11078f-3ba9-4a4e-be59-4d82b9e7a8ca?RefId=Registration).
-- **Questions?** Please email `log-nyc-org@googlegroups.com`. 
+- **Questions?** Please email log-nyc-org@googlegroups.com. 
 
 ## About
 
