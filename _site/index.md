@@ -1,31 +1,26 @@
 
 # **Learning Meets Geometry, Graphs, and Networks** 
 
-We are pleased to announce that registration is open for the 3rd LoG NYC Workshop: *Learning Meets Geometry, Graphs, and Networks.* This free two-day event serves as a regional branch of the main [Learning on Graphs Conference](https://logconference.org/), providing an environment for local researchers to convene, foster discussion, and build social connections. This event includes an invited speaker series, poster sessions, and structured and unstructured networking sessions. 
+We are pleased to announce that registration is open for the 3rd LoG NYC Workshop: *Learning Meets Geometry, Graphs, and Networks.* This free two-day event serves as a regional branch of the main [Learning on Graphs Conference](https://logconference.org/), providing an environment for local researchers to convene, foster discussion, and build social connections. This event includes an invited speaker series, poster session, and reception.  
 
-**Poster:** The workshop is now open for poster submission (see details in the registration page).
-
-**Note:** Website still under construction! Stay tuned for the full schedule of events.
+**Poster session submissions are open!** Submit through the official registration form. For topics in scope, see **Subject Areas** below.
 
 
 ## Details + Dates
 
-**Location:**  Ingrid Daubechies Auditorium (IDA), [Flatiron Institute](https://www.simonsfoundation.org/flatiron/), 162 5th Ave, New York, NY 10010
-
-**Event Dates:** April 21st - 22nd, 2025, 8:00 AM - 7:00 PM, Eastern Time
-
-**Register By:** April 14, 2025, 6:00 PM, Eastern Time
-
-**Registration Link:** Official registration is required for all attendees and is free of charge. [Please register here](https://events.simonsfoundation.org/event/90116c4e-d87a-4943-8bb8-b3b92d0ff398/regProcessStep1:9d11078f-3ba9-4a4e-be59-4d82b9e7a8ca?RefId=Registration).
-
+- **Location:**  Ingrid Daubechies Auditorium (IDA), [Flatiron Institute](https://www.simonsfoundation.org/flatiron/), 162 5th Ave, New York, NY 10010
+- **Event Dates:** April 21st – 22nd, 2025, 9:00 AM – 6:00 PM ET
+- **Register By:** April 14, 2025, 6:00 PM ET
+- **Registration Link:** Official registration is required for all attendees and is free of charge. [Please register here](https://events.simonsfoundation.org/event/90116c4e-d87a-4943-8bb8-b3b92d0ff398/regProcessStep1:9d11078f-3ba9-4a4e-be59-4d82b9e7a8ca?RefId=Registration).
+- **Questions?** Please email log-nyc-org@googlegroups.com. 
 
 ## About
 
 The New York Metropolitan Area Regional Workshop of the [Learning on Graphs Conference](https://logconference.org/) is a semiannual research workshop on topics broadly related to machine learning on graphs and geometry. 
 
-### Subject Areas
+#### Subject Areas
 
-The following is a non-exhaustive summary of our workshop's research focus:
+The following is a non-exhaustive summary of our workshop's research focus. We welcome poster session submissions relevant to these and adjacent topics:
 
 - Expressive graph neural networks
 - GNN architectures (e.g., transformers, new positional encodings, etc.)
