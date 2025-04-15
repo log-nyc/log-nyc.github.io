@@ -10,7 +10,7 @@ We are pleased to announce that registration is open for the 3rd LoG NYC Worksho
 
 - **Location:**  Ingrid Daubechies Auditorium (IDA), [Flatiron Institute](https://www.simonsfoundation.org/flatiron/), 162 5th Ave, New York, NY 10010
 - **Event Dates:** April 21st – 22nd, 2025, 9:00 AM – 6:00 PM ET
-- **Register By:** April 14, 2025, 6:00 PM ET
+- **Register By:** April 16, 2025, 6:00 PM ET
 - **Registration Link:** Official registration is required for all attendees and is free of charge. [Please register here](https://events.simonsfoundation.org/event/90116c4e-d87a-4943-8bb8-b3b92d0ff398/regProcessStep1:9d11078f-3ba9-4a4e-be59-4d82b9e7a8ca?RefId=Registration).
 - **Questions?** Please email log-nyc-org@googlegroups.com. 
 
