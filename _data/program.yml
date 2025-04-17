@@ -123,7 +123,7 @@ days:
             speaker: "Romain Lopez"
             category: "ML x Science"
           - time_start: "12:30 PM"
-            time_end: "2:30 PM"
+            time_end: "2:00 PM"
             title: "Lunch"
             type: "break"
           - time_start: "2:00 PM"
